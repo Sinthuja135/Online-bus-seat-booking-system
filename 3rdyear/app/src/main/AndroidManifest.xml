@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.travels">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".FinalActivity"
+            android:parentActivityName=".HomeActivity"
+            android:label="Your Booking Details"></activity>
+        <activity android:name=".SeatSelectActivity" />
+        <activity android:name=".Search" />
+        <activity android:name=".Search_Bus" />
+        <activity android:name=".News" />
+        <activity
+            android:name=".Feedback"
+            android:label="News"
+
+            android:parentActivityName=".News" />
+        <activity
+            android:name=".HomeActivity"
+            android:label="User Registration" />
+        <activity
+            android:name=".AboutUsActivity"
+            android:label="AboutUs"
+            android:parentActivityName=".DashboardActivity" />
+        <activity
+            android:name=".BusReservationActivity"
+            android:label="Bus Reservation for  Trips"
+            android:parentActivityName=".DashboardActivity" />
+        <activity
+            android:name=".DashboardActivity"
+            android:label="Home" />
+        <activity
+            android:name=".UserLoginActivity"
+            android:label="Login"
+            android:parentActivityName=".HomeActivity" />
+        <activity
+            android:name=".SeatBookingActivity"
+            android:label="Seat Booking"
+            android:parentActivityName=".DashboardActivity" />
+        <activity
+            android:name=".SeatView"
+            android:label="Details View"
+            android:parentActivityName=".SeatBookingActivity" />
+        <activity
+            android:name=".WelcomeActivity"
+            android:label="E-Dilmi Travels">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

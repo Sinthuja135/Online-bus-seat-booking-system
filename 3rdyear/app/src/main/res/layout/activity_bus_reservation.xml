@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/reservation"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".BusReservationActivity">
+
+
+    <Spinner
+        android:id="@+id/bustype"
+        android:layout_width="269dp"
+        android:layout_height="47dp"
+
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="64dp"
+        android:layout_marginLeft="64dp"
+        android:layout_marginTop="27dp"
+        android:background="@drawable/edit_round"
+        android:backgroundTint="#ffffff" />
+
+    <Spinner
+        android:id="@+id/from"
+        android:layout_width="264dp"
+        android:layout_height="43dp"
+        android:layout_below="@+id/bustype"
+
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="64dp"
+        android:layout_marginLeft="64dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/edit_round"
+        android:backgroundTint="#ffffff"
+        android:drawablePadding="15dp"
+        android:ems="10"
+        android:hint="Enter From Place"
+        android:inputType="textPersonName"
+        android:paddingLeft="15dp"
+        app:layout_constraintVertical_bias="0.312" />
+
+
+    <Spinner
+        android:id="@+id/to"
+        android:layout_width="264dp"
+        android:layout_height="43dp"
+
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="64dp"
+        android:layout_marginLeft="64dp"
+        android:layout_marginTop="145dp"
+        android:background="@drawable/edit_round"
+        android:backgroundTint="#ffffff"
+        android:drawablePadding="15dp"
+        android:ems="10"
+        android:hint="Enter To Place"
+        android:inputType="textPersonName"
+        android:paddingLeft="15dp" />
+
+    <EditText
+        android:id="@+id/startdate"
+        android:layout_width="120dp"
+        android:layout_height="41dp"
+
+        android:layout_alignParentStart="true"
+
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="64dp"
+        android:layout_marginLeft="64dp"
+        android:layout_marginTop="207dp"
+        android:background="@drawable/edit_round"
+        android:backgroundTint="#ffffff"
+        android:drawablePadding="15dp"
+        android:hint="Select start date"
+        android:paddingLeft="15dp"
+        android:textColorHint="#000"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="224dp" />
+
+    <EditText
+        android:id="@+id/time"
+        android:layout_width="120dp"
+        android:layout_height="41dp"
+
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="205dp"
+        android:layout_marginLeft="205dp"
+        android:layout_marginTop="203dp"
+        android:background="@drawable/edit_round"
+        android:backgroundTint="#ffffff"
+        android:drawablePadding="15dp"
+        android:hint="Select time"
+        android:paddingLeft="15dp"
+        android:textColorHint="#000" />
+
+
+    <Spinner
+        android:id="@+id/people"
+        android:layout_width="271dp"
+        android:layout_height="40dp"
+
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+
+
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="64dp"
+        android:layout_marginLeft="64dp"
+        android:layout_marginTop="268dp"
+        android:background="@drawable/edit_round"
+        android:backgroundTint="#ffffff"
+        android:drawablePadding="15dp"
+        android:ems="10"
+        android:hint="Enter No Of peoples"
+        android:inputType="textPersonName"
+        android:paddingLeft="15dp" />
+
+    <EditText
+        android:id="@+id/day"
+        android:layout_width="267dp"
+        android:layout_height="44dp"
+
+        android:layout_alignParentStart="true"
+
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+
+        android:layout_marginStart="64dp"
+        android:layout_marginLeft="64dp"
+        android:layout_marginTop="331dp"
+        android:background="@drawable/edit_round"
+        android:backgroundTint="#ffffff"
+        android:drawablePadding="15dp"
+
+        android:ems="10"
+        android:hint="Enter No Of Days"
+        android:inputType="number"
+        android:paddingLeft="15dp"
+        android:textColorHint="#000" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="120dp"
+        android:layout_height="41dp"
+
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="64dp"
+        android:layout_marginLeft="64dp"
+        android:layout_marginTop="395dp"
+        android:background="@drawable/edit_round"
+        android:text="View your payment"
+        android:textAllCaps="false"
+        android:textColor="#ffff"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/price"
+        android:layout_width="120dp"
+        android:layout_height="41dp"
+        android:layout_alignParentStart="true"
+
+        android:layout_alignParentLeft="true"
+
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="202dp"
+        android:layout_marginLeft="202dp"
+
+        android:layout_marginTop="393dp"
+        android:background="@drawable/edit_round"
+        android:drawablePadding="15dp"
+        android:paddingLeft="15dp"
+        android:paddingTop="7dp"
+        android:text="Payment"
+        android:textAlignment="center"
+        android:textColor="#ffff"
+        android:textSize="15dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="62dp"
+        android:layout_marginLeft="62dp"
+        android:layout_marginTop="454dp"
+        android:background="@drawable/edit_round"
+        android:text="Confirm Your Reservation"
+        android:textAllCaps="false"
+
+
+        android:textColor="#ffff"
+        android:textSize="15dp" />
+
+    <Button
+        android:id="@+id/btnCall"
+        android:layout_width="69dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="257dp"
+        android:layout_marginLeft="257dp"
+        android:layout_marginTop="452dp"
+        android:layout_marginBottom="153dp"
+        android:background="@drawable/edit_round"
+        android:onClick="btnClick"
+        android:text="Call"
+        android:textColor="#ffffff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/button2" />
+
+
+</RelativeLayout>

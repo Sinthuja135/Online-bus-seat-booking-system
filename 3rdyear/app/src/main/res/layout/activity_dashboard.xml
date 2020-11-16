@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".DashboardActivity">
+
+    <ImageView
+        android:id="@+id/imageViewBus"
+        android:layout_width="184dp"
+        android:layout_height="130dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="68dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logoo5" />
+
+    <Button
+        android:id="@+id/buttonSeatBooking"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/edit_round"
+        android:backgroundTint="#ffffff"
+        android:drawableLeft="@drawable/seattt"
+        android:drawablePadding="15dp"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="20dp"
+        android:text="SEAT BOOKING"
+        android:textAllCaps="false"
+        android:textColor="#000"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewBus"
+        app:layout_constraintVertical_bias="0.096" />
+
+    <Button
+        android:id="@+id/buttonSeatResrvation"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginBottom="8dp"
+        android:backgroundTint="#ffffff"
+        android:background="@drawable/edit_round"
+        android:drawableLeft="@drawable/busss"
+        android:drawablePadding="15dp"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="20dp"
+        android:text="BUS RESERVATION"
+        android:textColor="#000"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonSeatBooking"
+        app:layout_constraintVertical_bias="0.034" />
+
+    <Button
+        android:id="@+id/buttonAboutUs"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/edit_round"
+        android:backgroundTint="#ffffff"
+        android:drawableLeft="@drawable/aboutuss"
+        android:drawablePadding="15dp"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="20dp"
+        android:text="ABOUT US"
+        android:textColor="#000"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonSeatResrvation" />
+
+    <Button
+        android:id="@+id/buttonNews"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/edit_round"
+        android:backgroundTint="#ffffff"
+        android:drawableLeft="@drawable/newsss"
+        android:drawablePadding="15dp"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="20dp"
+        android:text="NEWS"
+        android:textColor="#000"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonAboutUs"
+        app:layout_constraintVertical_bias="0.039" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="140dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="116dp"
+        android:layout_marginRight="116dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/edit_round"
+        android:drawablePadding="15dp"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="30dp"
+        android:text="Logout"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:textStyle="bold"
+
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonNews"
+        app:layout_constraintVertical_bias="0.19"
+
+
+        />
+
+
+
+</android.support.constraint.ConstraintLayout>

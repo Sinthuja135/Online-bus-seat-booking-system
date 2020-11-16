@@ -1,0 +1,336 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:2:1-64:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bdc580735e33aa8f28b6c0f9350744bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\user\.gradle\caches\transforms-2\files-2.1\717f09579afd750997a040538b983bdc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a4482a8300c38ce6b598793588205e60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6939d7df128d5b43c40f5899db406bb3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f708747eb595184b67080f91ac290dc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\3a3def56da9d40d1a16779b5727685e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\052b52988a2d7d225f7d2b89a9c0a1ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\cacff0945bb5144936d6f5f0d6d52d60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e87d32120f3dabd443a88e478355bb62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\69e827c09839d9f63717cb068a1c35c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\abddb133a6bdad5bc309ba81b3dd4a89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\48eb271f52e3757c8b52c6156e90cb3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\570b331762418911d6af0ba53bca7f20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bec9eff075a66f0ebf77e6589a475be7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\df28418a3c7a52fe934d0170dc2a5a95\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\09d3a3c273a589b72111246f4a450cef\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\311c9cf8efa6300bd3f34a853a37a91f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\02690d9fed51aa9da9f49fec41c82464\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\efd2cbf116cd2fa832151883ca2a55e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\3268d841b17bc66aa402c12efd194f05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\da57164fa692539dad0bf7767ffec5d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9934173eb2645c303f6ae25b541c3b36\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\05fe8a0a3ba9f29cc7543546890f489c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\5bbe54b81c3e114658536cb22d4f2566\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4966bcec75879763bfbf7467477c84ce\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f1895787df65820d4c0012f5f18a1a16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d21aacf0f2148a265fe4e2d5bdc9ecc8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:2:1-28:12
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:10:5-67
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:6:5-69
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:6:22-66
+application
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:8:5-62:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\user\.gradle\caches\transforms-2\files-2.1\717f09579afd750997a040538b983bdc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\user\.gradle\caches\transforms-2\files-2.1\717f09579afd750997a040538b983bdc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\09d3a3c273a589b72111246f4a450cef\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\09d3a3c273a589b72111246f4a450cef\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\311c9cf8efa6300bd3f34a853a37a91f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\311c9cf8efa6300bd3f34a853a37a91f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:12:5-26:19
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:12:5-26:19
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:19:5-24:19
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:19:5-24:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\09d3a3c273a589b72111246f4a450cef\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.travels.FinalActivity
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:15:9-17:61
+	android:parentActivityName
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:16:13-55
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:15:19-48
+activity#com.example.travels.SeatSelectActivity
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:18:9-56
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:18:19-53
+activity#com.example.travels.Search
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:19:19-41
+activity#com.example.travels.Search_Bus
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:20:9-48
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:20:19-45
+activity#com.example.travels.News
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:21:9-42
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:21:19-39
+activity#com.example.travels.Feedback
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:22:9-26:50
+	android:parentActivityName
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:26:13-47
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:24:13-33
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:23:13-37
+activity#com.example.travels.HomeActivity
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:27:9-29:49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:29:13-46
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:28:13-41
+activity#com.example.travels.AboutUsActivity
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:30:9-33:63
+	android:parentActivityName
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:33:13-60
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:31:13-44
+activity#com.example.travels.BusReservationActivity
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:34:9-37:63
+	android:parentActivityName
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:37:13-60
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:36:13-55
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:35:13-51
+activity#com.example.travels.DashboardActivity
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:38:9-40:36
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:40:13-33
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:39:13-46
+activity#com.example.travels.UserLoginActivity
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:41:9-44:58
+	android:parentActivityName
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:44:13-55
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:43:13-34
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:42:13-46
+activity#com.example.travels.SeatBookingActivity
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:45:9-48:63
+	android:parentActivityName
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:48:13-60
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:47:13-41
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:46:13-48
+activity#com.example.travels.SeatView
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:49:9-52:65
+	android:parentActivityName
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:52:13-62
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:51:13-41
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:50:13-37
+activity#com.example.travels.WelcomeActivity
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:53:9-61:20
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:54:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:56:13-60:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:57:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:59:17-77
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml:59:27-74
+uses-sdk
+INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bdc580735e33aa8f28b6c0f9350744bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bdc580735e33aa8f28b6c0f9350744bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\user\.gradle\caches\transforms-2\files-2.1\717f09579afd750997a040538b983bdc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\user\.gradle\caches\transforms-2\files-2.1\717f09579afd750997a040538b983bdc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a4482a8300c38ce6b598793588205e60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a4482a8300c38ce6b598793588205e60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6939d7df128d5b43c40f5899db406bb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6939d7df128d5b43c40f5899db406bb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f708747eb595184b67080f91ac290dc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f708747eb595184b67080f91ac290dc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\3a3def56da9d40d1a16779b5727685e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\3a3def56da9d40d1a16779b5727685e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\052b52988a2d7d225f7d2b89a9c0a1ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\052b52988a2d7d225f7d2b89a9c0a1ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\cacff0945bb5144936d6f5f0d6d52d60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\cacff0945bb5144936d6f5f0d6d52d60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e87d32120f3dabd443a88e478355bb62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e87d32120f3dabd443a88e478355bb62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\69e827c09839d9f63717cb068a1c35c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\69e827c09839d9f63717cb068a1c35c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\abddb133a6bdad5bc309ba81b3dd4a89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\abddb133a6bdad5bc309ba81b3dd4a89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\48eb271f52e3757c8b52c6156e90cb3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\48eb271f52e3757c8b52c6156e90cb3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\570b331762418911d6af0ba53bca7f20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\570b331762418911d6af0ba53bca7f20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bec9eff075a66f0ebf77e6589a475be7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bec9eff075a66f0ebf77e6589a475be7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\df28418a3c7a52fe934d0170dc2a5a95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\df28418a3c7a52fe934d0170dc2a5a95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\09d3a3c273a589b72111246f4a450cef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\09d3a3c273a589b72111246f4a450cef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\311c9cf8efa6300bd3f34a853a37a91f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\311c9cf8efa6300bd3f34a853a37a91f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\02690d9fed51aa9da9f49fec41c82464\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\02690d9fed51aa9da9f49fec41c82464\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\efd2cbf116cd2fa832151883ca2a55e2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\efd2cbf116cd2fa832151883ca2a55e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\3268d841b17bc66aa402c12efd194f05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\3268d841b17bc66aa402c12efd194f05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\da57164fa692539dad0bf7767ffec5d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\da57164fa692539dad0bf7767ffec5d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9934173eb2645c303f6ae25b541c3b36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9934173eb2645c303f6ae25b541c3b36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\05fe8a0a3ba9f29cc7543546890f489c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\05fe8a0a3ba9f29cc7543546890f489c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\5bbe54b81c3e114658536cb22d4f2566\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\5bbe54b81c3e114658536cb22d4f2566\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4966bcec75879763bfbf7467477c84ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4966bcec75879763bfbf7467477c84ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f1895787df65820d4c0012f5f18a1a16\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f1895787df65820d4c0012f5f18a1a16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d21aacf0f2148a265fe4e2d5bdc9ecc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d21aacf0f2148a265fe4e2d5bdc9ecc8\AndroidManifest.xml:20:5-44
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:5:5-7:41
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:5:5-7:41
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\AndroidStudioProjects\flutter_project\flutter_app\3rdyear\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:9:22-76
+activity#com.paypal.android.sdk.payments.PaymentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:13:9-84
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:13:19-81
+activity#com.paypal.android.sdk.payments.PaymentMethodActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:14:9-90
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:14:19-87
+activity#com.paypal.android.sdk.payments.PaymentConfirmActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:15:9-91
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:15:19-88
+activity#com.paypal.android.sdk.payments.LoginActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:16:9-82
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:16:19-79
+activity#com.paypal.android.sdk.payments.PayPalFuturePaymentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:17:9-96
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:17:19-93
+activity#com.paypal.android.sdk.payments.FuturePaymentConsentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:18:9-97
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:18:19-94
+activity#com.paypal.android.sdk.payments.FuturePaymentInfoActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:19:9-94
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:19:19-91
+activity#com.paypal.android.sdk.payments.PayPalProfileSharingActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:20:9-97
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:20:19-94
+activity#com.paypal.android.sdk.payments.ProfileSharingConsentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:21:9-98
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:21:19-95
+service#com.paypal.android.sdk.payments.PayPalService
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\42cca7c9112fc5e25453ef75c4f173e8\AndroidManifest.xml:24:13-73
+uses-permission#android.permission.CAMERA
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:10:22-63
+uses-feature#android.hardware.camera
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:13:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:16:9-57
+activity#io.card.payment.CardIOActivity
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:20:9-22:66
+	android:configChanges
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:22:13-63
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:21:13-58
+activity#io.card.payment.DataEntryActivity
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:23:9-70
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\426a63ff618d32b0c0e3370dbe919c64\AndroidManifest.xml:23:19-67

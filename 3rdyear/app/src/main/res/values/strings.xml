@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">E-Dilimi</string>
+
+
+    <string name="lower">lower</string>
+    <string name="upper">upper</string>
+    <string name="done">done</string>
+    <string name="goBack">goBack</string>
+    <string name="seats_selected">seats_selected</string>
+    <string name="rupees">rupees</string>
+    <string name="available">available</string>
+    <string name="SelectDate">Select a Date</string>
+    <string name="heading">heading</string>
+    <string name="description_tett">description_tet</string>
+    <string name="image">image</string>
+    <string name="description_tet">Our travel system provides efficient bus seat booking facility and bus reservation facility to the passengers. We provide two types of buses like semi luxary and normal bus. The charges are different for both buses. The charges also depend on the distance the customer wants to travel.</string>
+    <string-array name="From">
+        <item>Badulla</item>
+        <item>Jaffna</item>
+        <item>Vavuniya</item>
+        <item>Bandarawela</item>>
+    </string-array>
+
+    <string-array name="To">
+        <item>Badulla</item>
+        <item>Jaffna</item>
+        <item>Vavuniya</item>
+        <item>Bandarawela</item>>
+    </string-array>
+
+    <string-array name="Bustype">
+        <item>AC</item>
+        <item>NON-AC</item>
+    </string-array>
+    <string name="action_settings">action_settings</string>
+    <string-array name="android_layout_arrays1">
+        <item>Select Bustype</item>
+        <item>Ac</item>
+        <item>Non-Ac</item>
+
+    </string-array>
+    <string-array name="android_layout_arrays2">
+        <item>Select Origin </item>
+        <item>Badhulla</item>
+        <item>Jaffna</item>
+        <item>Colombo</item>
+        <item>Trincomalee</item>
+        <item>Negombo</item>
+        <item>Vavuniya</item>
+        <item>Batticaloa</item>
+        <item>Mannar</item>
+        <item>Galle</item>
+        <item>Mattara</item>
+        <item>Nuwareliya</item>
+        <item>Anurathapura</item>
+
+
+    </string-array>
+    <string-array name="android_layout_arrays3">
+        <item>Select Destination</item>
+        <item>Select Origin </item>
+        <item>Badhulla</item>
+        <item>Jaffna</item>
+        <item>Colombo</item>
+        <item>Trincomalee</item>
+        <item>Negombo</item>
+        <item>Vavuniya</item>
+        <item>Batticaloa</item>
+        <item>Mannar</item>
+        <item>Galle</item>
+        <item>Mattara</item>
+        <item>Nuwareliya</item>
+        <item>Anurathapura</item>
+
+    </string-array>
+
+    <string-array name="android_layout_arrays4">
+        <item>Select No of people</item>
+        <item>10-20</item>
+        <item>20-30</item>
+        <item>30-40</item>
+        <item>40-50</item>
+        <item>50-60</item>
+    </string-array>
+
+</resources>

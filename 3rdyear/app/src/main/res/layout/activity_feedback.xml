@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+
+    tools:context="com.example.travels.Feedback">
+
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="338dp"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="6dp"
+        android:layout_marginRight="6dp"
+        android:layout_marginBottom="20dp"
+        android:paddingLeft="15dp"
+        android:text="Provide your feedback"
+        android:textColorHint="#000"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etName"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="189dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/edit_round"
+        android:backgroundTint="#ffffff"
+        android:hint="Enter your name"
+
+        android:inputType="text"
+        android:paddingLeft="50dp"
+        android:textColorHint="#000" />
+
+
+    <EditText
+        android:id="@+id/etFeedback"
+        android:layout_width="250dp"
+        android:layout_height="90dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="252dp"
+        android:layout_marginEnd="49dp"
+        android:layout_marginRight="49dp"
+        android:background="@drawable/edit_round"
+        android:backgroundTint="#ffffff"
+        android:hint="Your Feedbacks"
+        android:inputType="textMultiLine"
+        android:paddingLeft="50dp"
+        android:textColorHint="#000" />
+
+    <RatingBar
+        android:id="@+id/rating"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="367dp"
+        android:layout_marginEnd="56dp"
+
+        android:layout_marginRight="56dp"
+        android:isIndicator="false"
+        android:numStars="5"
+        android:saveEnabled="true" />
+
+    <Button
+        android:id="@+id/bsubmit"
+        android:layout_width="146dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="300dp"
+        android:layout_marginTop="437dp"
+        android:layout_marginEnd="110dp"
+        android:layout_marginRight="110dp"
+        android:background="@drawable/edit_round"
+        android:text="Send"
+        android:textColor="#ffff"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="71dp"
+        android:layout_marginEnd="136dp"
+        android:layout_marginRight="136dp"
+        app:srcCompat="@drawable/feedback" />
+
+</RelativeLayout>
